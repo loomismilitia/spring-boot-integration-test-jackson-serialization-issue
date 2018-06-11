@@ -1,0 +1,1 @@
+INSERT INTO user (`id`, `name`, `nonEditableProperty`) values (1, 'Muhammed Suiçmez', 'Non editable value');
